@@ -1,16 +1,21 @@
-### Hi there 👋
+Resume: 
 
-<!--
-**ribeirotomas1904/ribeirotomas1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LinkedIn: https://www.linkedin.com/in/nathanael-ribeiro/
 
-Here are some ideas to get you started:
+## Links of cool stuff that i made:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Library for type safe css classes in rescript: https://github.com/ribeirotomas1904/typed-css-classes
+
+Country select component built in rescript (it uses a strategy to efficiently render a very large list): https://github.com/ribeirotomas1904/ahrefs-task
+
+Programming language I did with my friends: https://github.com/Dr-Nekoma/spatula
+
+Implementing System F Omega with my friends: https://youtu.be/mzD32AFxZbo?t=210
+
+Me talking about system F: https://www.youtube.com/watch?v=DGpOlW54nIw
+
+Simple parser combinators lib made in OCaml: https://github.com/ribeirotomas1904/parser-combinators/blob/main/lib/parser_combinators.ml
+
+Pattern matching implementation in FSharp: https://gist.github.com/ribeirotomas1904/e19e38272e5ccf536029a2d85848ec9c
+
+Tetris in javascript: https://github.com/ribeirotomas1904/tetris.js
