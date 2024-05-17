@@ -1,4 +1,4 @@
-Resume: 
+Resume: https://github.com/ribeirotomas1904/ribeirotomas1904/blob/main/Nathanael_Ribeiro_resume.pdf
 
 LinkedIn: https://www.linkedin.com/in/nathanael-ribeiro/
 
