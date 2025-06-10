@@ -4,6 +4,8 @@ LinkedIn: https://www.linkedin.com/in/nathanael-ribeiro/
 
 ## Links of cool stuff that i made:
 
+A bomberman-inspired multiplayer game prototype (made with ocaml and js_of_ocaml): https://github.com/ribeirotomas1904/bomb-game
+
 Library for type safe css classes in rescript: https://github.com/ribeirotomas1904/typed-css-classes
 
 Country select component built in rescript (it uses a strategy to efficiently render a very large list): https://github.com/ribeirotomas1904/ahrefs-task
