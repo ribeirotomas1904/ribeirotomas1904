@@ -18,6 +18,6 @@ Me talking about system F: https://www.youtube.com/watch?v=DGpOlW54nIw
 
 Simple parser combinators lib made in OCaml: https://github.com/ribeirotomas1904/parser-combinators/blob/main/lib/parser_combinators.ml
 
-Pattern matching implementation in FSharp: https://gist.github.com/ribeirotomas1904/e19e38272e5ccf536029a2d85848ec9c
+Pattern matching partial implementation in FSharp: https://gist.github.com/ribeirotomas1904/e19e38272e5ccf536029a2d85848ec9c
 
 Tetris in javascript: https://github.com/ribeirotomas1904/tetris.js
